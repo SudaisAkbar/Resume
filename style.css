@@ -1,0 +1,57 @@
+#Main
+{
+    color:darkseagreen ;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url("./back\ 2.avif");
+    background-position: center;
+}
+.H33
+{
+    color:darkseagreen ;
+}
+.Con
+{
+    color: red;
+}
+.para
+{
+    color: rgb(218, 218, 114);
+}
+li[value]
+{
+    color: rgb(218, 218, 114);
+}
+.li
+{
+    color:  rgb(218, 218, 114);;
+}
+.free
+{
+    color:  rgb(218, 218, 114);;
+}
+#link{
+    color: red;
+}
+.fott
+{
+    color: rgb(218, 218, 114); ;
+}
+*
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+img
+{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+}
